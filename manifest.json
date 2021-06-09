@@ -1,6 +1,6 @@
 {
-    "name": "smartcampusweb",
-    "short_name": "smartcampusweb",
+    "name": "smartbuildingapps",
+    "short_name": "smartbuildingapps",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
